@@ -62,5 +62,5 @@ For this solution, the following items are required:
 * 1x [4.7kΩ Resistor](https://www.adafruit.com/product/2783)
 
 Below is a schematics for the assembly: 
-<img src="https://github.com/">
+<img src="[https://github.com/MariaPoliti/rp2040_MCP4725_Sonicator/docs/](https://github.com/MariaPoliti/rp2040_MCP4725_Sonicator/blob/main/docs/RaspberryPi_Pico_Microcontroller_Schematics.png)">
 
